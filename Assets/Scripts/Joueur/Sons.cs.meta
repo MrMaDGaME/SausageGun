@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: fac6ad9d6a2e9b24a96c8f547dfd18b3
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - battements_de_coeur: {fileID: 8300000, guid: 5519d1e88a6a1dc47a5069f18e4717f8,
+      type: 3}
+  - bruit_mort: {fileID: 8300000, guid: 8886f61f3c60ea54e98a00561bb99729, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

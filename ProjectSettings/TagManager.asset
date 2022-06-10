@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - JumpPad
+  - pic_a_saucisse
+  - arme_de_poing
+  - fusil_d'assaut
+  - "fusil_de_pr\xE9cision"
+  - mitraillette
+  - Arme6
+  - PlayerRed
+  - PlayerBlue
+  - pompe
+  - "fusil_\xE0_pompe"
+  - sniper
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Me
+  - EnnemiTeam
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
